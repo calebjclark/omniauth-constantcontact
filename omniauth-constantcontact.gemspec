@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = OmniAuth::ConstantContact::VERSION
   s.authors     = ["Caleb Clark"]
   s.email       = ["cclark@mobilizationlabs.com"]
-  s.homepage    = ""
+  s.homepage    = "http://github.com/calebclark/omniauth-constantcontact"
   s.summary     = %q{OmniAuth strategy for ConstantContact}
   s.description = %q{OmniAuth strategy for ConstantContact}
 
